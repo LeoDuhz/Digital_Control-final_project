@@ -6,13 +6,13 @@ System analysis and design of double inverted pendulum
 
 
 
-**Contirbutor: LeoDuhz, Hao Xu, Kai Tang**
+**Contirbutor: LeoDuhz, xh38, Kai Tang**
 
 | **课程名称：** | 机械电子控制工程（甲）Ⅰ          |
 | -------------- | -------------------------------- |
 | **课程时间：** | 2020-2021学年秋冬学期周三第678节 |
 | **成员：**     | LeoDuhz                          |
-|                | Hao Xu                           |
+|                | xh38                             |
 |                | Kai Tang                         |
 | **题目：**     | 二级倒立摆系统分析与设计         |
 | **指导教师：** | 雷勇                             |
